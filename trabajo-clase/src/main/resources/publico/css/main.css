@@ -1,0 +1,29 @@
+
+#entrada{
+    color: darkred;
+}
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    width: 250px;
+    margin: 100px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+}
